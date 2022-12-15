@@ -1,4 +1,4 @@
-import React from "react";
+
 import arrayProductos from "./json/productos.json";
 import ItemCount from "./ItemCount";
 import { useState } from "react";

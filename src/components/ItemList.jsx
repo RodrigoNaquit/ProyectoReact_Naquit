@@ -1,9 +1,7 @@
-import React from 'react';
+
 import Item from './Item';
 
 const ItemList = ({items}) => {
-    console.log ("Items");
-    console.log ("items");
 
 
 
